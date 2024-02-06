@@ -4,7 +4,7 @@ MinimalistFox is my personalized version of Bento. I changed it to fit my style 
 
 ## By the way...
 
-I only modified how it looks. It remains a homepage for my Firefox browser, functionally unchanged from the [original version by migueravila](https://github.com/migueravila/Bento?tab=readme-ov-file). The core functionality is the same. For instance, I added a pop-up and glow effect to the buttons, but they're still just clickable buttons.
+I've only changed the appearance. It's still just a homepage for my Firefox browser, with no major alterations from the [original version by migueravila](https://github.com/migueravila/Bento?tab=readme-ov-file). The core functionality remains unchanged. For example, I've slightly changed how the buttons look, but they are and will always be just buttons.
 
 ## Features
 
