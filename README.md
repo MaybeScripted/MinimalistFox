@@ -16,10 +16,6 @@ I only modified how it looks. It remains a homepage for my Firefox browser, func
 - 🔵 Uses Lucide icons for visuals.
 - 🧩 Uses modular JavaScript files.
 
-<div style="text-align: center;">
-  <img src="https://i.gifer.com/3IsJ.gif" width="150" height="100">
-</div>
-
 ## ⭐ Usage
 
 ### 🏡 As Home Page
