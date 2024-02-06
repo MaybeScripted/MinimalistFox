@@ -109,7 +109,7 @@ body {
 
 .card {
   background-color: var(--cards);
-  box-shadow: 0 5px 7px rgba(0, 0, 0, 0.35);
+  box-shadow: 0 10px 7px rgba(0, 0, 0, 0.35);
   border-radius: 5px;
 }
 
@@ -301,6 +301,7 @@ body {
   grid-template-rows: repeat(2, 1fr);
   grid-gap: 3rem;
   padding: 0.4rem;
+  margin-left: 250px;
 }
 
 .list {
@@ -313,11 +314,11 @@ body {
 .list__1 {
   grid-column: 1;
   grid-row: 1 / span 2;
-  transition: box-shadow 0.3s ease; /* Add transition for smooth effects */
+  transition: box-shadow 0.3s ease;
 }
 
 .list__1:hover {
-  box-shadow: 0 0 40px 5px rgba(147, 40, 255, 0.5); /* Light purple underglow on hover */
+  box-shadow: 0 0 40px 5px rgba(147, 40, 255, 0.5);
 }
 
 .list__2 {
@@ -348,7 +349,7 @@ body {
 .listItem:hover {
   background: linear-gradient(to left, #9328ff, #ec70ff);
   color: var(--sfg);
-  transform: scale(1.05);
+  transform: scale(1.1);
 }
 
 
