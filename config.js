@@ -12,7 +12,7 @@ const CONFIG = {
 
 	// General
 	name: 'Scripted',
-	imageBackground: false,
+	imageBackground: true,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
@@ -139,7 +139,7 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: '❤️Me & Belle❤️',
+					name: '🎶Spotify List🎶',
 					link: 'https://open.spotify.com/playlist/5PUlLFtPbOT3cQbnZjihos?si=44aff16af23d46fb',
 				},
 				{
@@ -147,11 +147,11 @@ const CONFIG = {
 					link: 'https://open.spotify.com/playlist/37i9dQZF1DWWY64wDtewQt?si=b2bff5192cdf42c2',
 				},
 				{
-					name: '🌃Chill🌃',
+					name: '🌃Relax🌃',
 					link: 'https://youtu.be/ntVaogvrKgw?t=137',
 				},
 				{
-					name: '💤Chill 2.0💤',
+					name: '💤Chill💤',
 					link: 'https://youtu.be/791Df4e2krk?t=7',
 				},
 			],
